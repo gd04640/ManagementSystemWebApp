@@ -23,10 +23,10 @@ Orders: Records order information, linking customers to their respective orders,
 ![](orders.png)
 
 ## New Orders
-![](/Users/gaby/Documents/LinkedIn Projects/grocery_app/ui/neworder.png)
+![](neworder.png)
 
 ## Products Available
-![](/Users/gaby/Documents/LinkedIn Projects/grocery_app/ui/products.png)
+![](products.png)
 
 
 I hope you enjoy this web app & happy baking! 🍞🥐
