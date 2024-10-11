@@ -4,6 +4,8 @@
 
 The Management System Application is a three-tier web application designed to streamline operations in a bakery. This application will provide functionalities for managing inventory, orders, and revenue, all while maintaining an intuitive user interface.
 
+## Project Structure
+
 
 - Front-end: The user interface is built using HTML and CSS, providing a clean and responsive layout that enhances user experience. JavaScript enhances interactivity functionality to manage products and orders. Bootstrap provides pre-built components and grid systems that enhance the layout and styling of the application.
 
@@ -25,13 +27,6 @@ Orders: Records order information, linking customers to their respective orders,
 
 ## Products Available
 ![](products.PNG)
-
-
-## Project Structure
-
-- Frontend: Developed using HTML, CSS, JavaScript, and Bootstrap for a responsive design.
-- Backend: Built with Python and Flask to handle application logic and server-side processing.
-- Database: MySQL will be used for data storage and management.
 
 
 I hope you enjoy this web app & happy baking! 🍞🥐
