@@ -20,7 +20,7 @@ Orders: Records order information, linking customers to their respective orders,
 
 
 ## Orders
-![](/Users/gaby/Documents/LinkedIn Projects/grocery_app/ui/orders.png)
+![](orders.png)
 
 ## New Orders
 ![](/Users/gaby/Documents/LinkedIn Projects/grocery_app/ui/neworder.png)
