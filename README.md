@@ -12,10 +12,9 @@ The Management System Application is a three-tier web application designed to st
 
 
 - Database: A MySQL database is employed to manage data related to customers, products, and orders. 
-
-- Customers: Stores customer information, including IDs, names, and order details.
-- Products: Contains product details such as product IDs, names, prices, and available quantities.
-- Orders: Records order information, linking customers to their respective orders, including order IDs, product IDs, quantities, and total prices.
+Customers: Stores customer information, including IDs, names, and order details.
+Products: Contains product details such as product IDs, names, prices, and available quantities.
+Orders: Records order information, linking customers to their respective orders, including order IDs, product IDs, quantities, and total prices.
 
 
 ## Orders
