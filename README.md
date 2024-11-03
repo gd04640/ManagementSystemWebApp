@@ -1,4 +1,4 @@
-# Cuban Bakery Management System Web App
+# Bakery Management System Web App
 
 ## Overview
 
